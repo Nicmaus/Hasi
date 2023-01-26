@@ -1,4 +1,23 @@
 
+# Adrian
+
+### Kurzbio:  
+39 Jahre alt, gebürtiger Schwabe wohne jetzt in Luth. Wittenberg. Komme aus der Automobilbranche, danach Lager & Logistik.
+Verh. 2 Kinder
+
+### Rezept:
+[Oyakodon](https://1mal1japan.de/rezepte/oyakodon/)
+
+### Definition:
+unnötig   
+Bedeutung:
+nicht nötig, überflüssig  
+Beispiele:
+ein unnötiger Ärger, Verdruss
+unnötige Aufregungen
+sich [Dativ] unnötig Sorgen, Gedanken machen
+=======
+
 Name  Olaf Dutschmann
 Geb.: bin ich
 Wohnort Spremberg / Brandenburg
@@ -92,4 +111,5 @@ Beispielsätze
 1) Naturidentisch, künstlich, natürlich - für Verbraucher waren die Bezeichnungen für Aromen in Lebensmitteln bislang ein beständiges Ärgernis: Verwirrende, unbestimmte Begriffe, bei denen keiner verstand, um welche Inhaltsstoffe es sich tatsächlich handelte.
 1) Einige Hunderassen haben verwirrende Namen. Die Dänische Dogge kommt eigentlich aus Deutschland.
 1) Bisher verhinderten bestehende Gesetze, ihre [der US-Senatoren Ted Cruz und Chuck Schumer] Fälle vor Gericht zu bringen und Ansprüche geltend zu machen. Schuld war die verwirrende Vielfalt von Verjährungsfristen im US-Rechtssystem.
+
 
